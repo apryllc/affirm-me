@@ -18,7 +18,7 @@ padding: 10px;
 margin: 20px;
 }
 
-.happy img:hover {
-    background: green;
-    opacity: 0.6;
+.moods img:hover {
+    opacity: 0.9;
+    transform: scale(1.7);
   }
