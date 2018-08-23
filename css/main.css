@@ -17,6 +17,12 @@ padding: 10px;
 margin: 20px;
 }
 
+.overlay-1 {
+    height: 165px;
+    width: 148px;
+    background-color: green;
+}
+
 .happy:focus,
 .happy:hover {
   background-color: green;
